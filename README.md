@@ -18,6 +18,10 @@ The following steps are required to run the code:
 <li> Ensure all pip dependencies are installed as listed in requirements.txt. </li>
 <li> Run through the steps laid out in the notebook in the order of folders (starting with the preprocessing folder, metabolic modelling, to ML models). </li>
 
+## Citation
+
+Doan, L. M. T., Verma, S., Eftekhari, N., Angione, C., & Occhipinti, A. (2025). From bulk to single-cell and spatial data: An AI framework to characterise breast cancer metabolic dysregulations across modalities. Computers in Biology and Medicine, 198, 111195. https://doi.org/10.1016/J.COMPBIOMED.2025.111195
+
 ## License
 
 This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Public License for more details.
